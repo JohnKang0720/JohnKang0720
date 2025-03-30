@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome! 👋  
 
-<!--
-**JohnKang0720/JohnKang0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is [Gyo-Jin Kang], and I'm studying Statistics at the University of British Columbia.  
+I am currently interested in **Machine Learning** and **Data Analytics**, exploring how data-driven insights can solve real-world problems.  
 
-Here are some ideas to get you started:
+### 🔍 What I'm Working On   
+- Data visualization and storytelling with Python, Tableau, and QlikSense  
+- Dabbling in ML/DL projects & concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!  
+Feel free to reach out via:  
+- [LinkedIn](https://www.linkedin.com/in/gyo-jin-kang-877634211/)  
+- [Email](kangjohn00000@gmail.com)  
+
+Looking forward to collaborating and learning together! 🚀  
