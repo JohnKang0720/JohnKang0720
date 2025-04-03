@@ -10,6 +10,6 @@ I am currently interested in **Machine Learning** and **Data Analytics**, explor
 ### 📫 Let's Connect!  
 Feel free to reach out via:  
 - LinkedIn: https://www.linkedin.com/in/gyo-jin-kang-877634211/
-- Email: (kangjohn00000@gmail.com
+- Email: kangjohn00000@gmail.com
 
 Looking forward to collaborating and learning together! 🚀  
